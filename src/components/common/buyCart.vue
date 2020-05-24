@@ -36,7 +36,7 @@
     export default {
     	data(){
             return{
-               showMoveDot: [], //控制下落的小圆点显示隐藏
+               showMoveDot: [], //控制下落的小圆点显示隐藏 测试chensong
             }
         },
         mounted(){
